@@ -19,17 +19,6 @@ Functionality
 
     Confidentiality: Ensures data integrity and confidentiality through advanced security measures.
 
-Set up environment variables:
-Create a .env file in the root directory with the following variables:
-
-PORT=3000
-DB_HOST=localhost
-DB_USER=username
-DB_PASS=password
-DB_NAME=secrets_db
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-
 Start the application:
 
     npm start
