@@ -19,28 +19,8 @@ Functionality
 
     Confidentiality: Ensures data integrity and confidentiality through advanced security measures.
 
-Installation
-
-To run the Secrets App locally:
-
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/your/repository.git
-cd Secrets-App
-
-Install dependencies:
-
-bash
-
-npm install
-
 Set up environment variables:
-
 Create a .env file in the root directory with the following variables:
-
-plaintext
 
 PORT=3000
 DB_HOST=localhost
@@ -52,10 +32,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 
 Start the application:
 
-bash
-
     npm start
-
     Open your web browser and navigate to http://localhost:3000 to access the application.
 
 Contributing
